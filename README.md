@@ -1,3 +1,5 @@
-# catholic-app
-## 项目概述
-详细内容请查看 PRD.md 文件。
+# Catholic App
+
+A mobile application for Catholic believers providing Scripture reading, liturgy guides, spiritual growth resources, and prayer assistance.
+
+See [PRD.md](PRD.md) for more details.
